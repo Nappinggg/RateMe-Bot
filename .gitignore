@@ -1,0 +1,22 @@
+# 1. data base
+users.json
+*.json
+
+# 2. tockens
+.env
+config.py
+secret.py
+
+# 3. virtual enviroment
+venv/
+env/
+.venv/
+
+# 4. cache (system)
+__pycache__/
+*.pyc
+*.pyo
+
+#5 Налаштування PyCharm
+.idea/
+*.iml
